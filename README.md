@@ -5,7 +5,7 @@
 Nowadays, when most things are thought to be harmful, people have recently increased their interest in healthy living. Instead of fast food, packaged foods and junk food, they started to prefer the meals they made at home more. Our goal with this website is to deliver these recipes to people who want to make their own healthy meals.
 
 ### TARGET USERS
-1. food lovers,
+1. Food lovers,
 2. Those who want to eat healthy,
 3. Athletes,
 4. Students
