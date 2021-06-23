@@ -10,7 +10,7 @@ Nowadays, when most things are thought to be harmful, people have recently incre
 3. Athletes,
 4. Students
 
-### Websitesi Section
+### Website Sections
 1. Home page
 2. Soups
 3. Desserts
