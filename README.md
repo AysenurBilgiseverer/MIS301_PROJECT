@@ -20,16 +20,19 @@ Nowadays, when most things are thought to be harmful, people have recently incre
 
 
 ## HOME PAGE 
-![healthytastyhomepage](https://user-images.githubusercontent.com/83623538/123527122-8f99ac80-d6e5-11eb-8b58-dfc7c876535c.png)
+![Home_Page](https://user-images.githubusercontent.com/83623538/123543521-9b25bb80-d757-11eb-952b-8d923e10e44c.jpeg)
 
 ## MAIN DISHES PAGE
-![MainDishesPage](https://user-images.githubusercontent.com/83623538/123541785-f1dac780-d74e-11eb-9e63-b256e8e66f2b.png)
+![MainDishes_Page](https://user-images.githubusercontent.com/83623538/123543530-a842aa80-d757-11eb-9443-dfc39a5a735f.jpeg)
 
 ## SOUPS PAGE
-![SoupsPage](https://user-images.githubusercontent.com/83623538/123541829-0ae37880-d74f-11eb-92b5-4bc5f22a1150.png)
+![Soups_Page](https://user-images.githubusercontent.com/83623538/123543547-bc86a780-d757-11eb-9d4a-04fe0fcd6390.jpeg)
 
-## DESSERTS PAGE
-![DessertsPage](https://user-images.githubusercontent.com/83623538/123541950-a2e16200-d74f-11eb-96e1-4472b31a7e00.png)
+## DESSERTS PAGE!
+![Desserts_Page](https://user-images.githubusercontent.com/83623538/123543562-d2946800-d757-11eb-9ae4-6307814a228a.jpeg)
+
+
+
 
 
 
